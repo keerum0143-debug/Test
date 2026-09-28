@@ -1,0 +1,87 @@
+👉🏻Twisted Pair Cable
+-----Definition
+A twisted pair cable is a cable made up of two insulated copper wires twisted together to reduce interference and noise.
+-----What is it?
+It is a common type of wired transmission medium used to transmit data through electrical signals.
+-----How it works
+➡️Data is converted into electrical signals.
+➡️The signals travel through the copper wires.
+➡️The wires are twisted to reduce electromagnetic interference.
+➡️The receiver receives and converts the signals back into data.
+-----Features
+➡️Made of copper wires.
+➡️Two wires are twisted together.
+➡️Lightweight and flexible.
+➡️Easy to install.
+➡️Available as UTP and STP.
+➡️Commonly used in telephone and computer networks.
+-----Advantages
+➡️Low cost.
+➡️Easy to install.
+➡️Flexible and lightweight.
+➡️Easily available.
+➡️Suitable for short-distance communication.
+----Disadvantages
+➡️Limited transmission distance.
+➡️More affected by noise and interference.
+➡️Lower bandwidth than optical fibre.
+➡️Signals become weaker over long distances.
+👉🏻Coaxial Cable
+-----Definition
+A coaxial cable is a cable consisting of a central copper conductor surrounded by insulation, a metallic shield, and an outer protective covering.
+-----What is it?
+It is a wired transmission medium used to carry electrical signals for communication.
+-----How it works
+➡️Data is converted into electrical signals.
+➡️The signals travel through the central copper conductor.
+➡️The metallic shield protects the signal from external interference.
+➡️The receiver receives the signal and converts it into usable data.
+------Features
+➡️Has a central copper conductor.
+➡️Has an insulating layer.
+➡️Has a metallic shield.
+➡️Has an outer protective covering.
+➡️Better protection from noise than twisted pair.
+➡️Used for TV, cable internet and networking.
+-----Advantages
+➡️Higher bandwidth than twisted pair.
+➡️Less affected by noise.
+➡️More reliable than twisted pair.
+➡️Can transmit signals over longer distances.
+➡️Strong and durable.
+-----Disadvantages
+➡️More expensive than twisted pair.
+➡️Thicker and less flexible.
+➡️Installation is more difficult.
+➡️Lower speed and capacity than optical fibre.
+👉🏻Optical Fibre
+-----Definition
+Optical fibre is a thin, flexible cable made of glass or plastic that transmits data in the form of light signals.
+-----What is it?
+It is a high-speed transmission medium that uses light instead of electrical signals to transfer data.
+-----How it works
+➡️Data is converted into light signals.
+➡️The light travels through the fibre by total internal reflection.
+➡️The light reaches the receiving end.
+➡️The receiver converts the light signals back into electrical signals/data.
+-----Features
+➡️Made of glass or plastic.
+➡️Uses light signals.
+➡️Very high bandwidth.
+➡️Very high transmission speed.
+➡️Lightweight and thin.
+➡️Not affected by electromagnetic interference.
+➡️Suitable for long-distance communication.
+-----Advantages
+➡️Very high speed.
+➡️Very high bandwidth.
+➡️Can transmit data over long distances.
+➡️Not affected by electromagnetic interference.
+➡️More secure because it is difficult to tap.
+➡️Lightweight and small in size.
+-----Disadvantages
+➡️More expensive.
+➡️Installation is difficult.
+➡️Requires special equipment.
+➡️Fibre can be damaged if bent excessively.
+➡️Maintenance and repair can be difficult.
